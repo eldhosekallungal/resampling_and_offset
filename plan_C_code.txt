@@ -1,0 +1,20 @@
+Do the library function implementation in C for
+
+1. Reading wav file
+2. Resampling
+3. Offsetting
+4. Finding FFT
+5. Ploting Spectrum
+
+Do the main C code for the following
+
+1. Resampling
+2. Offsetting
+3. Plotting Spectrum
+
+Get everything into Git
+Make a Cmake file for building every main file to an executable binary
+
+Git repository name : resampling_and_offset
+
+https://github.com/eldhosekallungal/resampling_and_offset
